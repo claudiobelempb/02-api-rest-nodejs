@@ -35,6 +35,13 @@
 - npm run knex -- migrate:latest
 - npm run knex -- migrate:rollback
 
+## comado git
+- git init
+- git add .
+- git commit -m "initial commit"
+- gh repo create
+- gh repo view -w
+
 ## RF
 - [x] O usuário deve poder criar uma nova transação;
 - [x] O usuário deve poder obter um resumo da sua conta;
