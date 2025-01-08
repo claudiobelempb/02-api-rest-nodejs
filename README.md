@@ -8,6 +8,7 @@
 - npm install dotenv -S
 - npm install zod -S
 - npm install @fastify/cookie
+- npm i pg
 
 ## Dev Dependencies
 - npm i typescript -D
