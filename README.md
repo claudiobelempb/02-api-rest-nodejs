@@ -43,6 +43,12 @@
 - gh repo create
 - gh repo view -w
 
+## build command
+- npm install && npm run knex -- migrate:latest && npm run build
+
+## start command
+- node build/server.js
+
 ## RF
 - [x] O usuário deve poder criar uma nova transação;
 - [x] O usuário deve poder obter um resumo da sua conta;
